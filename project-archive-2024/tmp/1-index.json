@@ -16,7 +16,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:104.17.188.17"
+            "full:104.25.218.182"
           ],
           "skipFallback": true
         }
@@ -61,11 +61,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.17.188.17",
+              "address": "104.25.218.182",
               "port": 443,
               "users": [
                 {
-                  "id": "0d643833-e7d8-4f84-9d90-7c9f6881d280",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -75,17 +75,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "jqqd8pejgyx7lj0irq2qg2ytbs.pages.dev",
-            "path": "/vl/CPSGLZRPG1eOdCECLWj?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "Jqqd8PejgYX7lJ0IRq2Qg2Ytbs.paGeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "geedo.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -218,7 +218,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:104.16.110.5"
+            "full:104.19.118.192"
           ],
           "skipFallback": true
         }
@@ -263,11 +263,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.16.110.5",
+              "address": "104.19.118.192",
               "port": 443,
               "users": [
                 {
-                  "id": "0d643833-e7d8-4f84-9d90-7c9f6881d280",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -277,17 +277,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "jqqd8pejgyx7lj0irq2qg2ytbs.pages.dev",
-            "path": "/vl/CPSGLZRPG1eOdCECLWj?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "Jqqd8PejgYX7lJ0IRq2Qg2Ytbs.paGeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "geedo.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -404,7 +404,7 @@
     "stats": {}
   },
   {
-    "remarks": "🇸🇪 Sweden-3",
+    "remarks": "🇩🇪 Germany-3",
     "version": {
       "min": "26.2.6"
     },
@@ -420,7 +420,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:172.67.151.109"
+            "full:104.25.85.65"
           ],
           "skipFallback": true
         }
@@ -465,11 +465,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "172.67.151.109",
+              "address": "104.25.85.65",
               "port": 443,
               "users": [
                 {
-                  "id": "0d643833-e7d8-4f84-9d90-7c9f6881d280",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -479,17 +479,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "jqqd8pejgyx7lj0irq2qg2ytbs.pages.dev",
-            "path": "/vl/CPSGLZRPG1eOdCECLWj?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "Jqqd8PejgYX7lJ0IRq2Qg2Ytbs.paGeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "geedo.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -622,7 +622,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:172.66.163.58"
+            "full:190.93.244.169"
           ],
           "skipFallback": true
         }
@@ -667,11 +667,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "172.66.163.58",
+              "address": "190.93.244.169",
               "port": 443,
               "users": [
                 {
-                  "id": "0d643833-e7d8-4f84-9d90-7c9f6881d280",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -681,17 +681,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "jqqd8pejgyx7lj0irq2qg2ytbs.pages.dev",
-            "path": "/vl/CPSGLZRPG1eOdCECLWj?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "Jqqd8PejgYX7lJ0IRq2Qg2Ytbs.paGeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "geedo.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -824,7 +824,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:104.18.177.20"
+            "full:104.18.110.230"
           ],
           "skipFallback": true
         }
@@ -869,11 +869,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.18.177.20",
+              "address": "104.18.110.230",
               "port": 443,
               "users": [
                 {
-                  "id": "0d643833-e7d8-4f84-9d90-7c9f6881d280",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -883,17 +883,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "jqqd8pejgyx7lj0irq2qg2ytbs.pages.dev",
-            "path": "/vl/CPSGLZRPG1eOdCECLWj?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "Jqqd8PejgYX7lJ0IRq2Qg2Ytbs.paGeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "geedo.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1026,7 +1026,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:104.17.188.220"
+            "full:104.29.125.215"
           ],
           "skipFallback": true
         }
@@ -1071,11 +1071,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.17.188.220",
+              "address": "104.29.125.215",
               "port": 443,
               "users": [
                 {
-                  "id": "c2bb6c20-dad4-4405-abc9-afaf836f9c34",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -1085,17 +1085,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "ygxm0efh7cvprf0di0cxwjbiej91kc.pages.dev",
-            "path": "/vl/0VW67dMaOiaSkmJ5amnW?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "YGXm0Efh7CVPrF0dI0CxwJbIEJ91kc.pAgeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1212,7 +1212,7 @@
     "stats": {}
   },
   {
-    "remarks": "🇸🇪 Sweden-7",
+    "remarks": "🇩🇪 Germany-7",
     "version": {
       "min": "26.2.6"
     },
@@ -1228,7 +1228,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:172.67.155.20"
+            "full:155.46.167.211"
           ],
           "skipFallback": true
         }
@@ -1273,11 +1273,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "172.67.155.20",
+              "address": "155.46.167.211",
               "port": 443,
               "users": [
                 {
-                  "id": "c2bb6c20-dad4-4405-abc9-afaf836f9c34",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -1287,17 +1287,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "ygxm0efh7cvprf0di0cxwjbiej91kc.pages.dev",
-            "path": "/vl/0VW67dMaOiaSkmJ5amnW?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "YGXm0Efh7CVPrF0dI0CxwJbIEJ91kc.pAgeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1430,7 +1430,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:104.16.109.26"
+            "full:162.159.207.62"
           ],
           "skipFallback": true
         }
@@ -1475,11 +1475,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.16.109.26",
+              "address": "162.159.207.62",
               "port": 443,
               "users": [
                 {
-                  "id": "c2bb6c20-dad4-4405-abc9-afaf836f9c34",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -1489,17 +1489,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "ygxm0efh7cvprf0di0cxwjbiej91kc.pages.dev",
-            "path": "/vl/0VW67dMaOiaSkmJ5amnW?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "YGXm0Efh7CVPrF0dI0CxwJbIEJ91kc.pAgeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1632,7 +1632,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:104.25.161.52"
+            "full:104.19.30.181"
           ],
           "skipFallback": true
         }
@@ -1677,11 +1677,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.25.161.52",
+              "address": "104.19.30.181",
               "port": 443,
               "users": [
                 {
-                  "id": "c2bb6c20-dad4-4405-abc9-afaf836f9c34",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -1691,17 +1691,17 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "ygxm0efh7cvprf0di0cxwjbiej91kc.pages.dev",
-            "path": "/vl/0VW67dMaOiaSkmJ5amnW?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "YGXm0Efh7CVPrF0dI0CxwJbIEJ91kc.pAgeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1834,7 +1834,7 @@
         {
           "address": "8.8.8.8",
           "domains": [
-            "full:104.25.154.185"
+            "full:45.131.7.162"
           ],
           "skipFallback": true
         }
@@ -1879,11 +1879,11 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.25.154.185",
+              "address": "45.131.7.162",
               "port": 443,
               "users": [
                 {
-                  "id": "c2bb6c20-dad4-4405-abc9-afaf836f9c34",
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
                   "encryption": "none"
                 }
               ]
@@ -1893,17 +1893,219 @@
         "streamSettings": {
           "network": "ws",
           "wsSettings": {
-            "host": "ygxm0efh7cvprf0di0cxwjbiej91kc.pages.dev",
-            "path": "/vl/0VW67dMaOiaSkmJ5amnW?ed=2560"
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
           },
           "security": "tls",
           "tlsSettings": {
-            "serverName": "YGXm0Efh7CVPrF0dI0CxwJbIEJ91kc.pAgeS.DeV",
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
             "fingerprint": "chrome",
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+udp://1.1.1.1"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
+          },
+          "sockopt": {
+            "domainStrategy": "UseIP",
+            "happyEyeballs": {
+              "tryDelayMs": 250,
+              "prioritizeIPv6": false,
+              "interleave": 2,
+              "maxConcurrentTry": 4
+            }
+          }
+        },
+        "tag": "proxy"
+      },
+      {
+        "protocol": "dns",
+        "settings": {
+          "rules": [
+            {
+              "action": "hijack"
+            }
+          ]
+        },
+        "tag": "dns-out"
+      },
+      {
+        "protocol": "freedom",
+        "settings": {
+          "domainStrategy": "UseIP"
+        },
+        "tag": "direct"
+      },
+      {
+        "protocol": "blackhole",
+        "settings": {
+          "response": {
+            "type": "http"
+          }
+        },
+        "tag": "block"
+      }
+    ],
+    "routing": {
+      "domainStrategy": "IPIfNonMatch",
+      "rules": [
+        {
+          "inboundTag": [
+            "mixed-in"
+          ],
+          "port": 53,
+          "outboundTag": "dns-out",
+          "type": "field"
+        },
+        {
+          "inboundTag": [
+            "dns-in"
+          ],
+          "outboundTag": "dns-out",
+          "type": "field"
+        },
+        {
+          "inboundTag": [
+            "remote-dns"
+          ],
+          "outboundTag": "proxy",
+          "type": "field"
+        },
+        {
+          "inboundTag": [
+            "dns"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        {
+          "domain": [
+            "geosite:private"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        {
+          "ip": [
+            "geoip:private"
+          ],
+          "outboundTag": "direct",
+          "type": "field"
+        },
+        {
+          "network": "udp",
+          "outboundTag": "block",
+          "type": "field"
+        },
+        {
+          "network": "tcp",
+          "outboundTag": "proxy",
+          "type": "field"
+        }
+      ]
+    },
+    "policy": {
+      "levels": {
+        "0": {
+          "connIdle": 300,
+          "handshake": 4,
+          "uplinkOnly": 1,
+          "downlinkOnly": 1
+        }
+      },
+      "system": {
+        "statsOutboundUplink": true,
+        "statsOutboundDownlink": true
+      }
+    },
+    "stats": {}
+  },
+  {
+    "remarks": "🇩🇪 Germany-11",
+    "version": {
+      "min": "26.2.6"
+    },
+    "log": {
+      "loglevel": "warning"
+    },
+    "dns": {
+      "servers": [
+        {
+          "address": "https://8.8.8.8/dns-query",
+          "tag": "remote-dns"
+        },
+        {
+          "address": "8.8.8.8",
+          "domains": [
+            "full:104.18.123.86"
+          ],
+          "skipFallback": true
+        }
+      ],
+      "queryStrategy": "UseIP",
+      "tag": "dns"
+    },
+    "inbounds": [
+      {
+        "listen": "127.0.0.1",
+        "port": 10808,
+        "protocol": "mixed",
+        "settings": {
+          "auth": "noauth",
+          "udp": true
+        },
+        "sniffing": {
+          "destOverride": [
+            "http",
+            "tls"
+          ],
+          "enabled": true,
+          "routeOnly": true
+        },
+        "tag": "mixed-in"
+      },
+      {
+        "listen": "127.0.0.1",
+        "port": 10853,
+        "protocol": "dokodemo-door",
+        "settings": {
+          "address": "1.1.1.1",
+          "network": "tcp,udp",
+          "port": 53
+        },
+        "tag": "dns-in"
+      }
+    ],
+    "outbounds": [
+      {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "104.18.123.86",
+              "port": 443,
+              "users": [
+                {
+                  "id": "a2098fd6-157e-43dc-8ff4-4b7fa3aec917",
+                  "encryption": "none"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "ws",
+          "wsSettings": {
+            "host": "g1z0j5udb3s0u6dawuwjkrttyofoe.pages.dev",
+            "path": "/vl/aTARkAnbDFVmJjsZf?ed=2560"
+          },
+          "security": "tls",
+          "tlsSettings": {
+            "serverName": "G1z0j5uDb3s0u6DaWUwjKRTtyofoE.pAgES.DEv",
+            "fingerprint": "chrome",
+            "alpn": [
+              "http/1.1"
+            ],
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -2164,12 +2366,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.188.17",
+            "address": "104.25.218.182",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2180,7 +2382,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2197,12 +2399,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HElLo-Word-aN0.pagEs.DeV",
+          "serverName": "zhEnteLMAn.PaGEs.DeV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-1"
@@ -2216,12 +2418,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.110.5",
+            "address": "104.19.118.192",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2232,7 +2434,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2249,12 +2451,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hElLo-WoRD-aN0.PaGeS.Dev",
+          "serverName": "zHENTELMAN.pAgeS.dEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-2"
@@ -2268,12 +2470,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.151.109",
+            "address": "104.25.85.65",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2284,7 +2486,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2301,12 +2503,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HELlO-WOrd-aN0.pAges.DEV",
+          "serverName": "zHenteLmaN.pagES.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-3"
@@ -2320,12 +2522,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.66.163.58",
+            "address": "190.93.244.169",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2336,7 +2538,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2353,12 +2555,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HELLO-WORD-an0.PaGES.DEv",
+          "serverName": "zHenTeLmaN.Pages.DEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-4"
@@ -2372,12 +2574,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.177.20",
+            "address": "104.18.110.230",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2388,7 +2590,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2405,12 +2607,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hELLO-WORd-aN0.pAGES.dEv",
+          "serverName": "zhENTElmaN.pagEs.DEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-5"
@@ -2424,12 +2626,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.188.220",
+            "address": "104.29.125.215",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2440,7 +2642,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2457,12 +2659,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HELLo-wOrd-An0.PaGes.deV",
+          "serverName": "zhEnTeLmaN.paGeS.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-6"
@@ -2476,12 +2678,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.155.20",
+            "address": "155.46.167.211",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2492,7 +2694,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2509,12 +2711,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HeLLO-wORd-aN0.pagEs.deV",
+          "serverName": "ZHeNTelMAn.PageS.dEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-7"
@@ -2528,12 +2730,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.109.26",
+            "address": "162.159.207.62",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2544,7 +2746,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2561,12 +2763,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "helLo-WOrD-An0.PAgEs.dev",
+          "serverName": "ZHENTELmAN.pAgeS.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-8"
@@ -2580,12 +2782,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.161.52",
+            "address": "104.19.30.181",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2596,7 +2798,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2613,12 +2815,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hELLO-WoRD-aN0.paGeS.DEV",
+          "serverName": "ZhENtelman.pageS.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-9"
@@ -2632,12 +2834,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.154.185",
+            "address": "45.131.7.162",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2648,7 +2850,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2665,12 +2867,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hElLo-wOrD-AN0.pagES.DEv",
+          "serverName": "zhenTELMAN.pAGES.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-10"
@@ -2684,12 +2886,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.110.182",
+            "address": "104.18.123.86",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2700,7 +2902,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2717,12 +2919,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HelLo-worD-aN0.PAges.dEv",
+          "serverName": "zHENteLmAn.pagEs.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-11"
@@ -2736,12 +2938,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.20.16.209",
+            "address": "104.25.223.84",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2752,7 +2954,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2769,12 +2971,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HEllo-wOrd-AN0.PAGeS.DEv",
+          "serverName": "ZhENtElmAn.paGEs.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-12"
@@ -2788,12 +2990,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.54.91",
+            "address": "104.17.16.177",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2804,7 +3006,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2821,12 +3023,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HellO-wORd-an0.pAGeS.Dev",
+          "serverName": "ZhENTeLMAN.pAGes.dEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-13"
@@ -2840,12 +3042,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.13.251",
+            "address": "104.24.26.134",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2856,7 +3058,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2873,12 +3075,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HElLo-WOrd-An0.pages.dEV",
+          "serverName": "ZhentElmAN.PAgEs.Dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-14"
@@ -2892,12 +3094,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.73.125",
+            "address": "94.247.142.152",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2908,7 +3110,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2925,12 +3127,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hello-woRD-aN0.PageS.dev",
+          "serverName": "ZheNTeLmAn.Pages.Dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-15"
@@ -2944,12 +3146,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.19.229.141",
+            "address": "185.18.250.27",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -2960,7 +3162,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -2977,12 +3179,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "HeLLO-WORD-An0.PAgEs.DeV",
+          "serverName": "ZHEnTElMan.PAGEs.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-16"
@@ -2996,12 +3198,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.238.233",
+            "address": "172.66.201.171",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -3012,7 +3214,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -3029,12 +3231,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "helLO-wOrd-AN0.pAGeS.DEV",
+          "serverName": "zHEntELmaN.PAges.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-17"
@@ -3048,12 +3250,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.248.75",
+            "address": "14.102.228.116",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -3064,7 +3266,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -3081,12 +3283,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hELLo-WoRd-aN0.PagES.dEv",
+          "serverName": "zHenTeLMan.pagES.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-18"
@@ -3100,12 +3302,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.209.217",
+            "address": "141.101.120.186",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -3116,7 +3318,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -3133,12 +3335,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hElLo-WorD-AN0.pages.dEV",
+          "serverName": "ZHENteLMAn.PAges.DEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-19"
@@ -3152,12 +3354,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.24.153.170",
+            "address": "23.227.60.197",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "f72f37bb-8ed0-44e2-9815-0dc73fba8218",
+                "id": "29b058fa-9172-4320-89a6-204274ebadab",
                 "level": 8
               }
             ]
@@ -3168,7 +3370,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "hello-word-an0.pages.dev"
+            "Host": "zhentelman.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -3185,12 +3387,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "hELlo-woRd-aN0.pAges.dEV",
+          "serverName": "zhEnTelmaN.PAgeS.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-20"
