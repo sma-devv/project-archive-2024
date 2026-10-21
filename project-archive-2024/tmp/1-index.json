@@ -85,7 +85,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -287,7 +287,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -489,7 +489,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -691,7 +691,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -893,7 +893,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1095,7 +1095,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1212,7 +1212,7 @@
     "stats": {}
   },
   {
-    "remarks": "🇩🇪 Germany-7",
+    "remarks": "🇦🇿 Azerbaijan-7",
     "version": {
       "min": "26.2.6"
     },
@@ -1297,7 +1297,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1499,7 +1499,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1701,7 +1701,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -1818,7 +1818,7 @@
     "stats": {}
   },
   {
-    "remarks": "🇩🇪 Germany-10",
+    "remarks": "🇦🇿 Azerbaijan-10",
     "version": {
       "min": "26.2.6"
     },
@@ -1903,7 +1903,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
@@ -2105,7 +2105,7 @@
             "alpn": [
               "http/1.1"
             ],
-            "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
+            "echConfigList": "rawgit.com+udp://8.8.8.8"
           },
           "sockopt": {
             "domainStrategy": "UseIP",
