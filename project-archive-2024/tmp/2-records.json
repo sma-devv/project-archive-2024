@@ -79,7 +79,7 @@
   },
   "inbounds": [
     {
-      "listen": "0.0.0.0",
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "mixed",
       "settings": {
@@ -99,7 +99,7 @@
       "tag": "mixed-in"
     },
     {
-      "listen": "0.0.0.0",
+      "listen": "127.0.0.1",
       "port": 10853,
       "protocol": "dokodemo-door",
       "settings": {
@@ -143,12 +143,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.166.243",
+            "address": "104.25.218.182",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -159,7 +159,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -176,12 +176,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "pROud-aRT-D38C.MAryAM2756.WorkErs.Dev",
+          "serverName": "mRSmRmvRZdR.PAgES.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-1"
@@ -195,12 +195,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "195.85.23.11",
+            "address": "104.19.118.192",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -211,7 +211,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -228,12 +228,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PROuD-Art-d38C.MAryam2756.WORKers.deV",
+          "serverName": "mRsmRMVrzDr.pAges.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-2"
@@ -247,12 +247,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.66.19",
+            "address": "104.25.85.65",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -263,7 +263,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -280,12 +280,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "ProUd-aRT-d38c.maRyAm2756.wORkERs.DeV",
+          "serverName": "mrSmrmvrzDR.PAges.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-3"
@@ -299,12 +299,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.217.152",
+            "address": "190.93.244.169",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -315,7 +315,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -332,12 +332,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PROuD-ART-D38c.Maryam2756.WorKeRS.DEV",
+          "serverName": "mrSMRMvRZDr.pAGEs.dEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-4"
@@ -351,12 +351,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.19.229.12",
+            "address": "104.18.110.230",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -367,7 +367,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -384,12 +384,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PrOuD-art-d38c.mARyAm2756.woRkers.DEV",
+          "serverName": "MRsmRmVRZdr.pAgeS.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-5"
@@ -403,12 +403,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.24.7.85",
+            "address": "104.29.125.215",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -419,7 +419,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -436,12 +436,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PrOud-Art-d38c.MaRyam2756.wOrKERs.dEV",
+          "serverName": "MRsmrmvRZDr.PaGEs.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-6"
@@ -455,12 +455,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.176.53",
+            "address": "155.46.167.211",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -471,7 +471,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -488,12 +488,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "proUD-ART-D38C.mArYam2756.WORkErs.DEv",
+          "serverName": "mRSMRMvRZdR.pagES.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-7"
@@ -507,12 +507,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.133.79",
+            "address": "162.159.207.62",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -523,7 +523,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -540,12 +540,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PRouD-ARt-D38C.MaRYAm2756.WORkErs.dEV",
+          "serverName": "MrSMrMvrzdR.PAGES.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-8"
@@ -559,12 +559,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.68.232",
+            "address": "104.19.30.181",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -575,7 +575,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -592,12 +592,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "proUD-Art-D38c.MarYam2756.worKERS.dEV",
+          "serverName": "MRsMrMvrZDR.pAgES.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-9"
@@ -611,12 +611,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.19.162.106",
+            "address": "45.131.7.162",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -627,7 +627,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -644,12 +644,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PrOud-ARt-d38C.MARyAM2756.WorKerS.deV",
+          "serverName": "mrSmrMVrzDr.PagES.DeV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-10"
@@ -663,12 +663,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.19.48.88",
+            "address": "104.18.123.86",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -679,7 +679,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -696,12 +696,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PROuD-aRt-d38C.maryAm2756.worKErs.dEV",
+          "serverName": "MRsMRMvRzdR.pageS.DEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-11"
@@ -715,12 +715,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.203.235",
+            "address": "104.25.223.84",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -731,7 +731,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -748,12 +748,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PRoud-ARt-D38C.mARYAM2756.WorkERS.DeV",
+          "serverName": "MrSMrMvRzDR.pAgeS.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-12"
@@ -767,12 +767,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.13.128",
+            "address": "104.17.16.177",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -783,7 +783,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -800,12 +800,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PROud-arT-d38c.mAryaM2756.WOrKerS.Dev",
+          "serverName": "mRsMrmVrzDr.PageS.DEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-13"
@@ -819,12 +819,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.108.127",
+            "address": "104.24.26.134",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -835,7 +835,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -852,12 +852,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "proUD-ART-d38c.MARYAm2756.worKerS.dev",
+          "serverName": "MrSmrMVRzDR.pageS.Dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-14"
@@ -871,12 +871,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "162.159.32.92",
+            "address": "94.247.142.152",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -887,7 +887,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -904,12 +904,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "prOuD-arT-d38c.MaRYAM2756.WOrKERS.DeV",
+          "serverName": "mRsMrMvRzdr.PAgEs.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-15"
@@ -923,12 +923,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.156.91",
+            "address": "185.18.250.27",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -939,7 +939,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -956,12 +956,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "pROud-aRt-D38c.MARYam2756.wOrKERS.deV",
+          "serverName": "mRSmRmvRZDR.PAgeS.DeV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-16"
@@ -975,12 +975,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.199.220",
+            "address": "172.66.201.171",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -991,7 +991,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1008,12 +1008,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "pRouD-art-D38C.mArYAM2756.wOrkERs.dev",
+          "serverName": "MrsMrMvRZdR.PaGEs.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-17"
@@ -1027,12 +1027,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.27.51.116",
+            "address": "14.102.228.116",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -1043,7 +1043,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1060,12 +1060,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "Proud-aRT-D38C.MArYAM2756.WorkERS.DeV",
+          "serverName": "mrsMrmVrzDr.pAGes.DeV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-18"
@@ -1079,12 +1079,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.112.47",
+            "address": "141.101.120.186",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -1095,7 +1095,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1112,12 +1112,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "ProUD-aRt-d38c.mArYam2756.woRkErs.DEV",
+          "serverName": "MrsmRMVRZDr.pAGeS.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-19"
@@ -1131,12 +1131,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.170.134",
+            "address": "23.227.60.197",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "b3803031-3d58-472d-a23f-0d4ebc61d336",
+                "id": "7d36b5a8-b32c-4c4e-8005-b7c8891a7406",
                 "level": 8
               }
             ]
@@ -1147,7 +1147,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "proud-art-d38c.maryam2756.workers.dev"
+            "Host": "mrsmrmvrzdr.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1164,12 +1164,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "PrOUd-ArT-D38c.mAryam2756.wOrKErs.dev",
+          "serverName": "mRSMRMVRzdR.pAGEs.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-20"
@@ -1216,7 +1216,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "🔐 Global Access",
+  "remarks": "🔐 Multi Location",
   "routing": {
     "balancers": [
       {
