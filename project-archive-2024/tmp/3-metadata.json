@@ -79,7 +79,7 @@
   },
   "inbounds": [
     {
-      "listen": "0.0.0.0",
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "mixed",
       "settings": {
@@ -99,7 +99,7 @@
       "tag": "mixed-in"
     },
     {
-      "listen": "0.0.0.0",
+      "listen": "127.0.0.1",
       "port": 10853,
       "protocol": "dokodemo-door",
       "settings": {
@@ -143,12 +143,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.166.243",
+            "address": "104.25.218.182",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -159,7 +159,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -176,12 +176,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BillOWiNg-BOaT-CfaB.Wodreu.woRkERs.deV",
+          "serverName": "mZHgnMHIn.pAgeS.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-1"
@@ -195,12 +195,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "195.85.23.11",
+            "address": "104.19.118.192",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -211,7 +211,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -228,12 +228,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "biLLoWInG-BOAt-CfaB.wodreU.wORkeRs.DEv",
+          "serverName": "MZHGnMhIN.pAges.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-2"
@@ -247,12 +247,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.66.19",
+            "address": "104.25.85.65",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -263,7 +263,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -280,12 +280,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "bIlLoWING-BOAT-cfAB.WoDReu.WOrkerS.DEv",
+          "serverName": "MZhgnmHin.PAgES.dEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-3"
@@ -299,12 +299,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "172.67.217.152",
+            "address": "190.93.244.169",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -315,7 +315,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -332,12 +332,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "bILLoWInG-boAT-CFab.WoDREU.woRkERS.dEV",
+          "serverName": "mzhgnmHIn.pagES.DeV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-4"
@@ -351,12 +351,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.19.229.12",
+            "address": "104.18.110.230",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -367,7 +367,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -384,12 +384,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BILlOwIng-BOat-cFaB.wODREU.WOrkErs.DEV",
+          "serverName": "MzhgnmhIn.pAGes.DEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-5"
@@ -403,12 +403,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.24.7.85",
+            "address": "104.29.125.215",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -419,7 +419,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -436,12 +436,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "bILLoWiNG-BoAt-CfAb.WOdrEu.worKeRS.DEV",
+          "serverName": "MZHgnMhin.PAGes.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-6"
@@ -455,12 +455,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.176.53",
+            "address": "155.46.167.211",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -471,7 +471,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -488,12 +488,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "bILlOWInG-BOAT-CFAB.WOdreu.worKErs.Dev",
+          "serverName": "mZHgnMHiN.paGES.DEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-7"
@@ -507,12 +507,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.133.79",
+            "address": "162.159.207.62",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -523,7 +523,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -540,12 +540,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BILlowING-bOat-cfAb.WODReu.woRkerS.DEV",
+          "serverName": "MzHGnMhin.PaGes.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-8"
@@ -559,12 +559,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.68.232",
+            "address": "104.19.30.181",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -575,7 +575,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -592,12 +592,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BilLowinG-BoaT-CFab.wOdreU.woRKERS.dev",
+          "serverName": "MzHGNMhin.pAGEs.Dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-9"
@@ -611,12 +611,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.19.162.106",
+            "address": "45.131.7.162",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -627,7 +627,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -644,12 +644,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BILLOwing-boAt-CfAb.WODREU.WOrkers.DeV",
+          "serverName": "mzhGnmHin.PAges.DEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-10"
@@ -663,12 +663,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.19.48.88",
+            "address": "104.18.123.86",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -679,7 +679,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -696,12 +696,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "bIlLOwiNG-bOat-cfab.WODrEu.woRKErS.DeV",
+          "serverName": "MzhGNmhin.PaGes.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-11"
@@ -715,12 +715,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.203.235",
+            "address": "104.25.223.84",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -731,7 +731,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -748,12 +748,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "bILlowING-BOAt-CfAb.WoDREU.wORKerS.DEv",
+          "serverName": "MZhGnMhIn.pAgeS.dEV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-12"
@@ -767,12 +767,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.13.128",
+            "address": "104.17.16.177",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -783,7 +783,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -800,12 +800,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "bILLowING-BoAT-CfaB.WODrEU.WoRkERs.dev",
+          "serverName": "MzHGNmHin.PaGEs.DEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-13"
@@ -819,12 +819,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.108.127",
+            "address": "104.24.26.134",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -835,7 +835,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -852,12 +852,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BiLLowinG-boat-Cfab.WoDreu.wOrkeRs.dev",
+          "serverName": "MzhGNMHiN.PAgEs.Dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-14"
@@ -871,12 +871,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "162.159.32.92",
+            "address": "94.247.142.152",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -887,7 +887,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -904,12 +904,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "biLlOwinG-Boat-cFab.wodrEu.WOrkErs.dEV",
+          "serverName": "mzHGnmHiN.Pages.DEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-15"
@@ -923,12 +923,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.156.91",
+            "address": "185.18.250.27",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -939,7 +939,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -956,12 +956,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BILlOWIng-BOAT-CFAb.woDReu.WORKers.Dev",
+          "serverName": "mZHgnMhIn.PAgES.DeV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-16"
@@ -975,12 +975,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.16.199.220",
+            "address": "172.66.201.171",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -991,7 +991,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1008,12 +1008,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "biLLOwINg-bOAT-CFAB.WodREU.woRKers.dEV",
+          "serverName": "mzHgNMHIN.pAgEs.DeV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-17"
@@ -1027,12 +1027,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.27.51.116",
+            "address": "14.102.228.116",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -1043,7 +1043,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1060,12 +1060,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BIlLowiNg-bOAT-cFaB.woDreu.WORKERs.dev",
+          "serverName": "MzHgNMHin.PaGeS.deV",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-18"
@@ -1079,12 +1079,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.17.112.47",
+            "address": "141.101.120.186",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -1095,7 +1095,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1112,12 +1112,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "BiLLOWIng-BOAt-CFaB.WoDreU.wORkERS.dEv",
+          "serverName": "mZhGNmhIn.paGES.dEv",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-19"
@@ -1131,12 +1131,12 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.25.170.134",
+            "address": "23.227.60.197",
             "port": 443,
             "users": [
               {
                 "encryption": "none",
-                "id": "430f03c6-3b59-4537-9e5d-33166f08d1e3",
+                "id": "c568e19b-b07b-404b-b93a-37f4f9a9620b",
                 "level": 8
               }
             ]
@@ -1147,7 +1147,7 @@
         "network": "ws",
         "wsSettings": {
           "headers": {
-            "Host": "billowing-boat-cfab.wodreu.workers.dev"
+            "Host": "mzhgnmhin.pages.dev"
           },
           "path": "/proxy?ed=2560"
         },
@@ -1164,12 +1164,12 @@
         "security": "tls",
         "tlsSettings": {
           "fingerprint": "chrome",
-          "serverName": "billOwInG-Boat-CfAb.WoDrEu.WorKers.dev",
+          "serverName": "MzHGnmHiN.pAges.dev",
           "show": false,
           "alpn": [
             "http/1.1"
           ],
-          "echConfigList": "rawgit.com+udp://1.1.1.1"
+          "echConfigList": "rawgit.com+https://9.9.9.9/dns-query"
         }
       },
       "tag": "vless-proxy-20"
@@ -1216,7 +1216,7 @@
       "statsOutboundDownlink": true
     }
   },
-  "remarks": "🔐 Global Access",
+  "remarks": "🔐 Multi Location",
   "routing": {
     "balancers": [
       {
