@@ -110,6 +110,7 @@
   },
   "inbounds": [
     {
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
@@ -371,6 +372,7 @@
   },
   "inbounds": [
     {
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
@@ -632,6 +634,7 @@
   },
   "inbounds": [
     {
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
@@ -783,7 +786,7 @@
   }
 },
 {
-  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.92:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region CH --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
+  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.114:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region CH --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -893,6 +896,7 @@
   },
   "inbounds": [
     {
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
@@ -1154,6 +1158,7 @@
   },
   "inbounds": [
     {
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
@@ -1415,6 +1420,7 @@
   },
   "inbounds": [
     {
+      "listen": "127.0.0.1",
       "port": 10808,
       "protocol": "socks",
       "settings": {
