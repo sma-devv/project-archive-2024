@@ -1,6 +1,6 @@
 [
 {
-  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.162:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region DE --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
+  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.186:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region DE --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -262,7 +262,7 @@
   }
 },
 {
-  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.30:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region FR --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
+  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.60:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region FR --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -524,7 +524,7 @@
   }
 },
 {
-  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.204:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region NL --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
+  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.114:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region NL --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -786,7 +786,7 @@
   }
 },
 {
-  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.114:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region CH --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
+  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.169:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region CH --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -1048,7 +1048,7 @@
   }
 },
 {
-  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.231:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region SE --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
+  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.239:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region SE --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -1310,7 +1310,7 @@
   }
 },
 {
-  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.110:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region FI --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
+  "aetherCommand": "aether --bind 127.0.0.1:10820 --protocol masque --scan balanced --ip v4 --masque-sni www.cloudflare.com --h2 --tls-ciphers ALL:!aPSK:!ECDSA+SHA1:!3DES --peer 162.159.198.79:443 --quick-reconnect --psiphon --psiphon-bind 127.0.0.1:10819 --psiphon-mode auto --psiphon-region FI --psiphon-server-entries shipped-list --upstream socks5://127.0.0.1:10822",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
